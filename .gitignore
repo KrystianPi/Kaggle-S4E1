@@ -163,3 +163,5 @@ cython_debug/
 sample_submission.csv
 test.csv
 train.csv
+catboost_info
+submission.csv
