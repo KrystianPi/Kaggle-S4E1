@@ -165,3 +165,4 @@ test.csv
 train.csv
 catboost_info
 submission.csv
+log.csv
