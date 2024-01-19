@@ -166,3 +166,6 @@ train.csv
 catboost_info
 submission.csv
 log.csv
+correlation_matrix.png
+Box Plots.png
+original_train.csv
